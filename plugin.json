@@ -1,7 +1,7 @@
 {
     "name": "Terrano",
     "description": "A neutral and natural theme made during the Catalyst Project Week.",
-    "version": "0.1.0",
+    "version": "1.4.0",
     "theme": true,
     "stylesheet": "stylesheets/theme.less",
     "homepage": "https://github.com/nstallinger/piwik_theme_terrano",
