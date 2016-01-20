@@ -1,6 +1,6 @@
 {
-    "name": "UrbanTheme",
-    "description": "Piwik Platform showcase: example of how to create a simple Theme.",
+    "name": "Terrano",
+    "description": "A neutral and natural theme made during the Catalyst Project Week.",
     "version": "0.1.0",
     "theme": true,
     "stylesheet": "stylesheets/theme.less",
