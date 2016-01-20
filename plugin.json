@@ -4,5 +4,13 @@
     "version": "0.1.0",
     "theme": true,
     "stylesheet": "stylesheets/theme.less",
-    "homepage": "https://github.com/nstallinger/piwik_theme_terrano"
+    "homepage": "https://github.com/nstallinger/piwik_theme_terrano",
+    "license": "GPLv3",
+    "authors": [
+      {
+          "name": "Nicole Stallinger",
+          "email": "stallinger.nicole@gmail.com",
+          "homepage": "https://github.com/nstallinger/piwik_theme_terrano"
+      }
+]
 }
