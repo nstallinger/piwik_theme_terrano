@@ -3,5 +3,6 @@
     "description": "Piwik Platform showcase: example of how to create a simple Theme.",
     "version": "0.1.0",
     "theme": true,
-    "stylesheet": "stylesheets/theme.less"
+    "stylesheet": "stylesheets/theme.less",
+    "homepage": "https://github.com/nstallinger/piwik_theme_terrano"
 }
