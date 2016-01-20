@@ -1,4 +1,4 @@
-# Piwik UrbanTheme Theme
+# Piwik Terrano Theme
 
 ## Description
 
